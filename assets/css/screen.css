@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url('https://i.ibb.co/1sQXJ4z/page-bg.png');
+    background-size: cover;
+    color: #fff;
+}
+
+.container{
+    padding-top: 5%;
+    height: 10%;
+
+    text-align: center;
+}
+
+.animated {
+    font-family: 'Charm', cursive;
+    margin: 0;
+    padding: 0;
+    font-size: 5rem;
+    background: url('https://i.ibb.co/89Cf3dm/text-bg.png') no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: moveBg 90s linear infinite;
+    -webkit-animation: moveBg 90s linear infinite;
+}
+
+@keyframes moveBg{
+    0%{
+        background-position: 0% 30%;
+    }
+    100%{
+        background-position: 100% 15%;
+    }
+}
+
