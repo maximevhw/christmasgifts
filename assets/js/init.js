@@ -27,7 +27,7 @@ function checkGift(code) {
     if (gift === undefined) {
         $giftArticle.insertAdjacentHTML("beforeend", `
         <h2>It seems like you entered an incorrect code.</h2>
-        <img src="../media/gift.webp" ALT="gift not found">
+        <img src="assets/media/gift.webp" ALT="gift not found">
         `);
     } else {
         $giftArticle.insertAdjacentHTML("beforeend", `
