@@ -15,7 +15,6 @@ function processSubmit(e) {
         code += input.value;
     })
     checkGift(code);
-    console.log(gift);
 }
 
 function checkGift(code) {
