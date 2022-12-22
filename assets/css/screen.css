@@ -44,3 +44,10 @@ form{
 #gift img {
     max-width: 40%;
 }
+
+label, input {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
