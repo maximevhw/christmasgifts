@@ -37,3 +37,10 @@ form{
     }
 }
 
+#gift {
+    margin-top: 2rem;
+    text-align: center;
+}
+#gift img {
+    max-width: 40%;
+}
