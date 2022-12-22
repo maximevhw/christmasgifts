@@ -4,7 +4,7 @@ _gifts = [
     {
         code: "6519824022674013",
         name: "Etentje op kosten maxime",
-        img: null,
+        img: "assets/media/restaurant.jpg",
         desc: "Etentje",
         link: ""
     },
