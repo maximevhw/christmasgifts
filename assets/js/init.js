@@ -5,7 +5,6 @@ document.addEventListener('DOMContentLoaded', init);
 
 function init() {
     document.querySelector("form").addEventListener("submit", processSubmit);
-    console.log('yeaaa buddy');
 }
 
 function processSubmit(e) {
