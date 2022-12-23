@@ -34,5 +34,4 @@ function checkGift(code) {
 <p>${gift.desc}</p>
 `)
     }
-    //6519 8240 2267 4013
 }
