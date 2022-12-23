@@ -21,8 +21,8 @@ _gifts = [
     },
     {
         code: "3778563364789621",
-        name: "yes",
-        img: null,
-        desc: "This gift is something",
+        name: "Time to relax!",
+        img: "assets/media/vela-spa.jpg",
+        desc: "You're always running around trying to help others. Its time to relax and enjoy. That's why i got you a giftcard to Vela spa in san pedro.",
     }
 ]
