@@ -9,20 +9,20 @@ _gifts = [
     },
     {
         code: "2769183298208737",
-        name: "Wellness",
-        img: null,
-        desc: "Etentje",
+        name: "Restaurant",
+        img: "assets/media/restaurant.jpg",
+        desc: "Lekker uiteten op kosten van Maxime",
     },
     {
         code: "4406282047892600",
-        name: "another gift",
-        img: null,
-        desc: "Etentje",
+        name: "Restaurant",
+        img: "assets/media/restaurant.jpg",
+        desc: "Lekker uiteten op kosten van Maxime",
     },
     {
         code: "3778563364789621",
         name: "yes",
         img: null,
-        desc: "Etentje",
+        desc: "This gift is something",
     }
 ]
