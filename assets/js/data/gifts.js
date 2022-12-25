@@ -20,14 +20,14 @@ _gifts = [
         //thibault
         code: "4406282047892600",
         name: "Uitje met Maxime?",
-        img: "assets/media/restaurant.jpg",
+        img: "assets/media/resto-airsoft.jpg",
         desc: "Lekker uiteten of toch wat extremer en eens gaan airsoften?",
     },
     {
         //Geert marleen
         code: "8025158332381161",
         name: "Uitje met Maxime?",
-        img: "assets/media/restaurant.jpg",
+        img: "assets/media/resto-airsoft.jpg",
         desc: "Eens lekker uiteten of toch wat extremer en eens gaan airsoften?",
     },
     {
