@@ -28,7 +28,7 @@ _gifts = [
         code: "8025158332381161",
         name: "Uitje met Maxime?",
         img: "assets/media/restaurant.jpg",
-        desc: "Eens lekker uitetenof toch wat extremer en eens gaan airsoften?",
+        desc: "Eens lekker uiteten of toch wat extremer en eens gaan airsoften?",
     },
     {
         code: "3778563364789621",
